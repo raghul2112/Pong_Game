@@ -31,4 +31,5 @@ It’s built using **object-oriented programming (OOP)** concepts like classes a
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/raghul2112/Pong_Game.git
+   git clone  https://raghul2112.github.io/Pong_Game/
+
